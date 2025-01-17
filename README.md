@@ -14,6 +14,10 @@ Coming full circle in 2025, this is a romhack of SMB3 that incorporates most of 
 
 Note that unlike in Flappy Bird, you can still land on objects and you still have access to all of your normal moves while in the air. It is highly recommended to take advantage of this, especially in later levels!
 
+# Instructions
+
+Simply apply the correct IPS patch to your original unmodified SMB3 game, depending on which version you have (PRG0 or PRG1).
+
 # Special Thanks
 
 - Captain Southbird for the SMB3 Disassembly, which none of this would be possible without!
