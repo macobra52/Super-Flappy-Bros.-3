@@ -12,5 +12,5 @@
 
 - You can still touch the ground and the top of objects, since it is normally required when grabbing the end of level card
 - Autoscrolling levels will not work without additional changes, since you move faster than the autoscroll (and touching the right edge will defeat you)
-- Additional changes will be required if you want additional player restrictions (no ducking, no speed increase with B, no tail swipe, no carrying things, etc.)
+- Additional changes will be required if you want additional player restrictions (no ducking, no tail swipe, etc.)
 - The Bowser door is coded to appear in the specific vanilla location (x and y) relative to the screen scroll. Additional changes will be required if the door is moved
