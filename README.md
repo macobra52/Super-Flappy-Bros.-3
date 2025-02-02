@@ -11,6 +11,7 @@ Coming full circle in 2025, this is a romhack of SMB3 that incorporates most of 
 - You always constantly move to the right, regardless of your directional input
 - Taking any damage instantly defeats you
 - Touching the bottom or sides or any object instantly defeats you
+- Touching water instantly defeats you
 
 Note that unlike in Flappy Bird, you can still land on objects and you still have access to all of your normal moves while in the air. It is highly recommended to take advantage of this, especially in later levels!
 
