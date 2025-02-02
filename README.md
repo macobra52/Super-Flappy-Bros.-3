@@ -1,6 +1,6 @@
 # Super Flappy Bros. 3
 
-![Super Flappy Bros  3-1](https://github.com/user-attachments/assets/3d5bf90e-0c26-41b9-bc3d-c4581721ee4c)
+![Super Flappy Bros  3-0](https://github.com/user-attachments/assets/4b80e6b0-0122-4864-96b7-91e1671c45f5)
 ![Super Flappy Bros  3-0](https://github.com/user-attachments/assets/cf929c07-e987-43ea-8693-ab3e17e7fec7)
 
 Coming full circle in 2025, this is a romhack of SMB3 that incorporates most of the concepts behind the hit mobile game Flappy Bird. It is a short one world, eight level hack intended more as a proof-of-concept that also includes a developer patch, allowing you to design your own levels with these changes!
